@@ -1,0 +1,4 @@
+metric,value
+raw_rides,5552994
+excluded_invalid_duration_rides,5614
+valid_rides,5547380

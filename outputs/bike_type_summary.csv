@@ -1,0 +1,5 @@
+rideable_type,rider_type,rides,rider_type_share_pct
+electric_bike,casual,1326818,66.51
+classic_bike,casual,667993,33.49
+electric_bike,member,2278118,64.13
+classic_bike,member,1274451,35.87

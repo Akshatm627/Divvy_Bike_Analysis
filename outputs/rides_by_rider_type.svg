@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="203" viewBox="0 0 900 203">
+  <style>text { font: 14px Arial, sans-serif; fill: #172033; } .title { font-size: 22px; font-weight: 700; }</style>
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <text class="title" x="30" y="40">Valid rides by rider type</text>
+  <text x="198" y="100" text-anchor="end">Member</text><rect x="210" y="85" width="570.0" height="20" rx="3" fill="#0f766e"/><text x="788.0" y="100">3,552,569</text><text x="198" y="134" text-anchor="end">Casual</text><rect x="210" y="119" width="320.1" height="20" rx="3" fill="#0f766e"/><text x="538.1" y="134">1,994,811</text>
+</svg>
